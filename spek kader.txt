@@ -1,3 +1,6 @@
 1.name tag
 2.bukang
-3.slayer
+3.buah buahan
+4.slayer
+5.tumbler
+6. alat tulis
